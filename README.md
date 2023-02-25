@@ -46,7 +46,7 @@ Add a phrase like ', Extremely Detailed' to your prompt.
 
 *Vibes*  
 
-Add a phrase like ', PIntricately Designed' to your prompt.    
+Add a phrase like ', Intricately Designed' to your prompt.    
 
 Amorphous, Atmospheric, Awesome, Awestruck, Blur, Bold, Brash, Bright, Character, Charming, Cinematic, Colorful, Concept Art, Control The Soul, Cosmos, Crystal, Curvaceous, Cute, Dark, Distortion, Dust, Dystopian, Eclectic, Elegant, Emo, Emotive, Epic, Ethereal, Extemporaneous, Eyes Wide In Wonder, Faded, Fantasy, Funereal, Furry, Futuristic, Ghastly, Gorgeous, Grainy, Hairy, Intricately Designed, Jaunty, Kaleidoscopic, Lucid, Made Of Yarn, Magical, Magnificent, Manmade, Melancholic, Melancholy, Metallic, Monumental, Moody, Muted, Mysterious, Neon, Old, Ominous, Opaque, Particulate, Peaceful, Psychedelic, Reflection, Refraction, Retrofuturistic, Saturated, Scenic, Serene, Smears, Smoke Effect, Smudges, Spirited, Spontaneous, Stormy, Tasteful, Tender, Transhumanist, Unnerving, Uplight, Utopian, Wormhole, ✨, Perspectives, Inspire
 
