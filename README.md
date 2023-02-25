@@ -2,7 +2,7 @@
 
 EAI + AI SKunkworks AI Deep Dives
 
-After you watch the seminar please take our "skunk quiz".
+After you watch the seminar please take our "Skunk Quiz".
 
 *Skunk Quiz for AI Skunkworks ChatGPT Seminar*
 
