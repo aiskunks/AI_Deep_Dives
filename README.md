@@ -8,7 +8,7 @@ After you watch the seminar please take our "skunk quiz".
 
 Go to https://chat.openai.com/ and ask it what DALLE 2 prompt or promot for an art bot to use to generate an image of a robot skunk standing like a human.  Then go to DALLE 2 and a free art bot listed below and generate it.  
 
-Please e-mail your art, the prompt you used, and premission to put it on this Gitub and in an article on the AI Skunks Medium https://medium.com/@skunksai so that people can see your awesome art.
+Please e-mail *ai at skunks.ai* with your art, the prompt you used, and premission to put it on this Gitub and in an article on the AI Skunks Medium https://medium.com/@skunksai so that people can see your awesome art.
 
 
 ## Tips to draw your skunk bot  
