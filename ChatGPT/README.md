@@ -1,7 +1,9 @@
 # Talks  
 ## Reach out to *eai at skunks.ai* to connect
 
-AI Deep Dive - ChatGPT  Tuesday, March 7, 2023
+AI Deep Dive - ChatGPT  Tuesday, March 7, 2023 
+The slides are here https://docs.google.com/presentation/d/1gdXBVdHNvhUKU1hLUn3uMk4_4qmumFEZtrWgFAS5YQo/edit?usp=sharing
+
 *The video and asynchronous talks will be up soon*
 
 The asynchronous talks are short videos with notebooks to give people hands on experience with what was discussed in the talk.
