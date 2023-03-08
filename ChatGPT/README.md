@@ -13,7 +13,13 @@ The slides are here https://docs.google.com/presentation/d/1gdXBVdHNvhUKU1hLUn3u
 *The video and asynchronous talks will be up soon*
 
 The asynchronous talks are short videos with notebooks to give people hands on experience with what was discussed in the talk.
-We are taking reuqests related to ChatGPT like how can I analyze financial statements with ChatGOT? Can ChatGPT do my homework, etc?  Reach out to *eai at skunks.ai* for requests.
+We are taking requests related to ChatGPT like how can I analyze financial statements with ChatGOT? Can ChatGPT do my homework, etc?  Reach out to *eai at skunks.ai* for requests.
+
+As a quick follow-up to AI Skunkworks “AI Deep Dive — ChatGPT ”talk, I wrote a children's book by asking ChatGPT these three questions and sent the text off to Midjourney to create the illustrations.
+
+https://link.medium.com/QTndIGiwZxb 
+
+What I did in an hour is up in "The Little Lord" folder, an AI Skunk will take over from here and create a proper "asynchronous talk" on creating a children's book with ChatGPT and Midjourney.  
 
 
 # AI Skunkworks at Northeastern
